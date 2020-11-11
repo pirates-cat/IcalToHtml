@@ -1,0 +1,148 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20201110T164726Z
+UID:41ab3917-ba5b-4d4e-8e36-1d960ef4b90b
+DTSTART:20201025T120000
+DTEND:20201025T140000
+SUMMARY:Reunió de l'Assemblea General - 
+URL:http://decidim.pirates.cat/assemblies/assemblea-general/f/15/meetings/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201110T164726Z
+UID:cefd9ad3-6cd0-43b7-abd5-61a61c430de2
+DTSTART:20201018T213000
+DTEND:20201018T223000
+SUMMARY:Reunió de seguiment - 
+URL:http://decidim.pirates.cat/assemblies/ca/f/12/meetings/2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201110T164726Z
+UID:852868ce-3b09-447a-babd-eeb244b4d4cd
+DTSTART:20201020T173000
+DTEND:20201020T183000
+SUMMARY:Reunió de seguiment - 
+URL:http://decidim.pirates.cat/assemblies/tic/f/13/meetings/3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201110T164726Z
+UID:1a13fc7b-1678-46ee-ac23-37158612975b
+DTSTART:20201101T203000
+DTEND:20201101T220000
+SUMMARY:Reunió de seguiment - 
+URL:http://decidim.pirates.cat/assemblies/assemblea-general/f/15/meetings/6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201110T164726Z
+UID:468ba2b5-397f-45b2-9934-e6b91209faa4
+DTSTART:20201027T173000
+DTEND:20201027T183000
+SUMMARY:Reunió de seguiment - 
+URL:http://decidim.pirates.cat/assemblies/tic/f/13/meetings/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201110T164726Z
+UID:c132f90c-2095-4e8c-bd0e-40f85a6047b0
+DTSTART:20201103T173000
+DTEND:20201103T183000
+SUMMARY:Reunió de seguiment - 
+URL:http://decidim.pirates.cat/assemblies/tic/f/13/meetings/7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201110T164726Z
+UID:c35e9bd6-a584-4400-beac-fd8695d0d91f
+DTSTART:20201108T203000
+DTEND:20201108T220000
+SUMMARY:Reunió de seguiment - 
+URL:http://decidim.pirates.cat/assemblies/assemblea-general/f/15/meetings/8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201110T164726Z
+UID:73fb4a19-b75b-424a-99c7-aeec62726791
+DTSTART:20201115T203000
+DTEND:20201115T220000
+SUMMARY:Reunió de seguiment - 
+URL:http://decidim.pirates.cat/assemblies/assemblea-general/f/15/meetings/1
+ 0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201110T164726Z
+UID:1f2bb451-9667-4126-9d43-702f0b6336cc
+DTSTART:20201110T173000
+DTEND:20201110T183000
+SUMMARY:Reunió de seguiment - 
+URL:http://decidim.pirates.cat/assemblies/tic/f/13/meetings/11
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201110T164726Z
+UID:16e42c9d-732c-417d-a126-b2a5ad1b4a49
+DTSTART:20201102T000000
+DTEND:20201115T000000
+SUMMARY:Actualització i ratificació del document estratègic - Primera ro
+ nda d'esmenes
+URL:http://decidim.pirates.cat/processes/document-estrategic?participatory_
+ process_slug=document-estrategic
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201110T164726Z
+UID:e18e27cf-79f8-468f-9771-9138323ecc56
+DTSTART:20201116T000000
+DTEND:20201122T000000
+SUMMARY:Actualització i ratificació del document estratègic - Transacci
+ ó d'esmenes
+URL:http://decidim.pirates.cat/processes/document-estrategic?participatory_
+ process_slug=document-estrategic
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201110T164726Z
+UID:d04c0949-7195-496e-97e1-bf9ba5de5bfa
+DTSTART:20201123T000000
+DTEND:20201129T000000
+SUMMARY:Actualització i ratificació del document estratègic - Primera vo
+ tació d'esmenes
+URL:http://decidim.pirates.cat/processes/document-estrategic?participatory_
+ process_slug=document-estrategic
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201110T164726Z
+UID:082fd0a2-fd92-44e2-b210-dbcc1760d5f2
+DTSTART:20201221T000000
+DTEND:20201227T000000
+SUMMARY:Actualització i ratificació del document estratègic - Votació f
+ inal del document
+URL:http://decidim.pirates.cat/processes/document-estrategic?participatory_
+ process_slug=document-estrategic
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201110T164726Z
+UID:4ec59d48-4d77-4a4b-9ae2-d7e626e01391
+DTSTART:20201102T000000
+DTEND:20201115T000000
+SUMMARY:Actualització i ratificació del document estratègic - Presentaci
+ ó del document inicial
+URL:http://decidim.pirates.cat/processes/document-estrategic?participatory_
+ process_slug=document-estrategic
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201110T164726Z
+UID:3c12ba8b-868a-4ce1-bcca-867a5eef8f4d
+DTSTART:20201130T000000
+DTEND:20201213T000000
+SUMMARY:Actualització i ratificació del document estratègic - Segona ron
+ da d'esmenes
+URL:http://decidim.pirates.cat/processes/document-estrategic?participatory_
+ process_slug=document-estrategic
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201110T164726Z
+UID:27d4c072-598d-43a5-98cb-afced6353372
+DTSTART:20201214T000000
+DTEND:20201220T000000
+SUMMARY:Actualització i ratificació del document estratègic - Transacci
+ ó d'esmenes
+URL:http://decidim.pirates.cat/processes/document-estrategic?participatory_
+ process_slug=document-estrategic
+END:VEVENT
+END:VCALENDAR

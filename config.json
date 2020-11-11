@@ -1,0 +1,16 @@
+{
+"ical_input_files": {
+	"pirates": "pirates-de-catalunya-calendar.ical"
+	
+},
+
+"html_output_file": "rendered.html",
+
+"sleepdur": 1,
+
+"view_days_before": 0,
+"view_days_after":  30,
+
+"verbose": false
+}
+
